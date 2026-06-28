@@ -16,3 +16,5 @@ Staðan is a football livescore app for Icelandic football leagues, developed by
 **Changes to This Policy**: If we make changes to this privacy policy, we will update the date at the top of this page.
 
 **Contact**: If you have any questions about this privacy policy, contact us at stadanapp@gmail.com
+
+**Support**: If you experience any issues with Staðan or have questions about the app, contact us at stadanapp@gmail.com and we will get back to you as soon as possible. For known issues and updates, check the App Store for the latest version of the app.
